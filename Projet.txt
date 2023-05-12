@@ -1,0 +1,47 @@
+
+		=========== TRAVAIL A FAIRE ===========
+
+Developpe un blog à partir de zéro en utilisant PHP.
+Tu peux utiliser une base de données pour stocker les articles,
+les commentaires et les utilisateurs.
+
+
+
+		=========== CONSIGNE ===========
+
+	Page d'accueil :
+En-tête avec le logo et les liens de navigation
+Section des articles avec les derniers articles publiés triés par date
+Barre latérale avec les catégories d'articles, les tags et les liens vers
+les pages de recherche et d'inscription
+Pied de page avec les liens de navigation supplémentaires et les informations de contact
+
+	Page d'article :
+En-tête avec le titre de l'article, l'auteur et la date de publication
+Le contenu de l'article
+Section de commentaires avec les commentaires existants, triés par date,
+et un formulaire pour ajouter un nouveau commentaire
+Barre latérale avec les articles connexes, les tags et les liens vers
+les pages de recherche et d'inscription
+Pied de page avec les liens de navigation supplémentaires et les informations de contact
+
+	Page de recherche :
+En-tête avec le formulaire de recherche
+Section des résultats de recherche, triés par pertinence ou date
+Barre latérale avec les catégories d'articles, les tags et les liens vers
+les pages de recherche et d'inscription
+Pied de page avec les liens de navigation supplémentaires et les informations de contact
+
+	Page de connexion :
+En-tête avec le formulaire de connexion ou les liens vers les pages de
+connexion et d'inscription
+Le formulaire de connexion avec les champs pour le nom d'utilisateur et le mot de passe
+Un lien pour récupérer le mot de passe oublié
+Pied de page avec les liens de navigation supplémentaires et les informations de contact
+
+	Page d'inscription :
+En-tête avec le formulaire d'inscription ou les liens vers
+les pages de connexion etd'inscription
+Le formulaire d'inscription avec les champs pour le nom, l'adresse e-mail,
+le nom d'utilisateur et le mot de passe
+Pied de page avec les liens de navigation supplémentaires et les informations de contact
